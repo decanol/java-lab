@@ -15,6 +15,7 @@ public class xyz extends Application {
         char exitProgram = 'Q';
         boolean logic = true;
         LocalDateTime CompileDate = LocalDateTime.now();
+        System.out.println("Hello, World!");
         System.out.println("This is the first laboratory work, there are variables with different data types examples");
         System.out.println("Maximal mark is " + maxMark + " points");
         System.out.println("I have to make " + stepsToUniversity + "steps to get the 8 campus");
